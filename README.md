@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amannayak2003
 - 👀 I’m interested in webdesion and programming
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning c and some advance languages
 - 💞️ I’m looking to collaborate with some professional programmer's from whom i could learn new things
 
 <!---
